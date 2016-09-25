@@ -1971,4 +1971,4 @@ Avery,Veit,Plaza Gourmet Delicatessen,9166 Devon St #905,UK,Knightsbridge and Be
 Reid,Euresti,"Fitzgerald, Edward J",70 Foster St,UK,Inverness Ness-Side Ward,Highland\
 Charlette,Brenning,Furey & Associates,714 Fonthill Rd,UK,Darton West Ward,South Yorkshire\
 Celestina,Keeny,Bfg Federal Credit Union,9 Milton St,UK,Consett North ED,County Durham\
-Mi,Richan,Nelson Wright Haworth Golf Crs,6 Norwood Grove,UK,Tanworth-in-Arden,Warwickshire}
+Mi,Richan,Nelson Wright Haworth Golf Crs,6 Norwood Grove,UK,Tanworth-in-Arden,Warwickshire
